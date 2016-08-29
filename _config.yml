@@ -68,7 +68,8 @@ theme: next
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type:
+  type: git
+  repo: git@github.com:charleyw/charleyw.github.io.git
 
 baidu_analytics: d589ef06c2d30f9bee9db8326816e3d0
 google_analytics: UA-46801609-1
