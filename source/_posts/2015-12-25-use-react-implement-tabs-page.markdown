@@ -10,6 +10,7 @@ categories:
 <script async src="//assets.codepen.io/assets/embed/ei.js"></script>
 
 ### 二、如何实现
+<!-- more -->
 既然用React写，那么它就必然是一个组件，首先考虑你怎么使用这个组件，也就是这个组件的接口是怎么样的。
 
 ```

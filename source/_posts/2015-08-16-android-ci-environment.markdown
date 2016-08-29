@@ -9,7 +9,7 @@ categories: android, CI, 持续集成
 # 目标操作系统
 * Ubuntu 14.04
 ps: 基本上Linux都适用，不过只在Ubuntu和CentOS上测试过。
-
+<!-- more -->
 # 依赖的软件
 * Java
 * Android SDK

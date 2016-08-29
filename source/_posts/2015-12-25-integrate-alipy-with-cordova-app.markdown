@@ -16,7 +16,7 @@ categories:
 * 然后把生成好的RSA公钥上传到这个支付宝上，参照这个[网页](http://doc.open.alipay.com/doc2/detail.htm?spm=0.0.0.0.KOQ7dv&treeId=58&articleId=103578&docType=1)
 
 **注意上传的时候记住删掉公钥文件前后的-----BEGIN PUBLIC KEY-----和-----END PUBLIC KEY-----，以及空格和换行，否则会告诉你公钥非法**
-
+<!-- more -->
 ### 准备好集成资料
 
 * 支付宝帐号

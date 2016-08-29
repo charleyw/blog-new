@@ -13,7 +13,7 @@ keywords: linux，init，chkconfig, 自启动, LSB
 		touch /etc/init.d/test-init
 		chmod +x /etc/init.d/test-init
 	给这个文件写入如下内容
-
+<!-- more -->
 		#!/bin/sh
 			
 		# chkconfig: 2345 20 80
